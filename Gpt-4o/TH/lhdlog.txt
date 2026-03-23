@@ -1,0 +1,1 @@
+original accuracy: 99.100%, adv accuracy: 1.400%, random avg  change: 19.997% avg changed rate: 14.340%, num of queries: 330.3, random_sims: 0.419, final_sims : 0.583 
